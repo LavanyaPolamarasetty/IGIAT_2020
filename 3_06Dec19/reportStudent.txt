@@ -1,0 +1,5 @@
+Name English Maths	Total
+sairam 90     80	170
+ram    80     90	170
+lakshmi 50    60	110
+raj     70    40	110

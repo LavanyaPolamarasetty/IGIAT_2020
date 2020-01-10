@@ -1,0 +1,3 @@
+Name English Maths Total
+sairam 90     80    170
+ram    80     90    170

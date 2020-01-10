@@ -1,0 +1,5 @@
+Name English Maths
+sairam 90     80
+ram    80     90
+lakshmi 50    60
+raj     70    40
